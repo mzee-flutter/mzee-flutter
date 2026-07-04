@@ -4,6 +4,7 @@
 
 Welcome to my GitHub! I'm a passionate developer focused on building beautiful, cross-platform applications. I love turning complex problems into simple, elegant digital experiences.
 
+📫 How to reach me: **mudair.khan37@gmail.com**.
 - 🔭 I’m currently working on **building scalable mobile applications**
 - 🌱 I’m currently learning **state management and also actively working in backend**
 - 👯 I’m looking to collaborate on **open-source Flutter projects**
